@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HERMANTONI
 - 👀 I’m interested in programing c,c++,python,labview
-- 🌱 I’m currently learning c,c++, and a litle
+- 🌱 I’m currently learning c,c++, and a litle python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
