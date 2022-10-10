@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HERMANTONI
-- 👀 I’m interested in programing c,c++,python,labview
+- 👀 I’m interested in programing c,c++,python
 - 🌱 I’m currently learning c,c++, and a litle python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on AI Programming and Engineer
+- 📫 How to reach me > contact me by email hermantoni0510@gmail.com
 
 <!---
 HERMANTONI/HERMANTONI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
