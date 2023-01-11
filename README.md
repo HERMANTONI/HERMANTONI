@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 youtube chanel @hermantoni , subscribe please :)
+https://www.youtube.com/channel/UCdnzMOtLwrzP_zzd0FXZ2iQ
 https://www.youtube.com/channel/UCdnzMOtLwrzP_zzd0FXZ2iQ?sub_confirmation=1
