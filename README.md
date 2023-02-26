@@ -8,5 +8,11 @@ HERMANTONI/HERMANTONI is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-youtube chanel @hermantoni , subscribe please :) \n \n
+youtube chanel @hermantoni , subscribe please :)
+
+<!---
+HERMANTONI/HERMANTONI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 https://www.youtube.com/channel/UCdnzMOtLwrzP_zzd0FXZ2iQ
