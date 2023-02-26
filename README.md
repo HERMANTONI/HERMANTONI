@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @HERMANTONI
-- 👀 I’m interested in programing c,c++,python,php,js,html
-- 🌱 I’m currently learning c,c++ for embedded system project , python for image processing and acces my project, php, js, html for acces my project via website. 
-- 💞️ I’m looking to collaborate on AI Programming and Engineer.
-- 📫 
+- 👋 Hi, I’m HERMANTONI
+- 👀 I’m interested in Robotics Programming, Image Processing, Electronics Engineering, 
+- 🌱 I’m currently learning c,c++,python,php 
+- 💞️ I’m looking to collaborate on Robotics and Engineer.
 
 <!---
 HERMANTONI/HERMANTONI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
