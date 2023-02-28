@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 https://www.youtube.com/channel/UCdnzMOtLwrzP_zzd0FXZ2iQ
 
+salah satu video saya di youtube
+
 [![Watch the video](https://i9.ytimg.com/vi_webp/Gj2BfUZKvDA/sddefault.webp?v=63f1d489&sqp=CPCB9p8G&rs=AOn4CLCLpI_yRoqGygjvZgTzTnwHKl09qA)](https://youtu.be/Gj2BfUZKvDA)
